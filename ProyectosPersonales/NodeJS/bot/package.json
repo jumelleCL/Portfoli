@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "booru": "^2.6.3",
+    "discord.js": "^13.12.0"
+  }
+}
