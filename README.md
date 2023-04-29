@@ -10,5 +10,5 @@
 ### Practicas para aprender varios lenguajes de manera autodidacta:
 - [C++](https://github.com/jumelleCL/Portfoli/tree/main/ProyectosPersonales/Cpp)
 - HTML y JavaScript
-- Python[https://github.com/jumelleCL/Portfoli/tree/main/ProyectosPersonales/Python]
+- [Python](https://github.com/jumelleCL/Portfoli/tree/main/ProyectosPersonales/Python)
 - NodeJS
