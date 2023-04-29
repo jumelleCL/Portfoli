@@ -8,7 +8,7 @@
 
 # Proyectos Personales
 ### Practicas para aprender varios lenguajes de manera autodidacta:
-- Proyectos C++
-- Proyectos HTML y JavaScript
-- Proyectos Python
-- Proyectos NodeJS
+- [C++](https://github.com/jumelleCL/Portfoli/tree/main/ProyectosPersonales/Cpp)
+- HTML y JavaScript
+- Python
+- NodeJS
