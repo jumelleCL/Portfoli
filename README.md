@@ -1,6 +1,5 @@
 # Portfoli
-<h1 align="center">Hola, soy Camilo Jumelle</h1>
-**`Estudiante en Nicolau Copernic (DAW)`**
+**` Estudiante en Nicolau Copernic (DAW) `**
 
 - 📫 Contáctame por **jumellecamilo@gmail.com**
 
